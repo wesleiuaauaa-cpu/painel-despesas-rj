@@ -1,17 +1,22 @@
-Ano,Função,Valor_Empenhado
-2025,Saúde,0
-2025,Educação,0
-2025,Administração,0
-2025,Urbanismo,0
-2025,Transporte,0
-2025,Assistência Social,0
-2025,Legislativa,0
-2025,Encargos Especiais,0
-2024,Saúde,0
-2024,Educação,0
-2024,Administração,0
-2024,Urbanismo,0
-2024,Transporte,0
-2024,Assistência Social,0
-2024,Legislativa,0
-2024,Encargos Especiais,0
+Ano,Função,Valor_Empenhado_Milhões,Valor_Empenhado_Bilhões
+2025,Saúde,7754.09,7.75
+2025,Educação,7713.73,7.71
+2025,Previdência Social,6925.91,6.93
+2025,Urbanismo,3804.85,3.80
+2025,Encargos Especiais,3514.80,3.51
+2025,Administração,2329.83,2.33
+2025,Transporte,1933.82,1.93
+2025,Legislativa,1222.02,1.22
+2024,Saúde,7642.64,7.64
+2024,Educação,7151.24,7.15
+2024,Previdência Social,6789.83,6.79
+2024,Urbanismo,4642.17,4.64
+2024,Encargos Especiais,3241.90,3.24
+2024,Administração,2229.40,2.23
+2024,Transporte,2201.12,2.20
+2024,Legislativa,1092.51,1.09
+2023,Saúde,7018.96,7.02
+2023,Educação,6699.92,6.70
+2022,Saúde,6820.51,6.82
+2021,Educação,5645.71,5.65
+2020,Previdência Social,5619.81,5.62
